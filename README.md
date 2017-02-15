@@ -1,1 +1,1 @@
-# mdc-email-gmail
+# mdc-email-smtp
