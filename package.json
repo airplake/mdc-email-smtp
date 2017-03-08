@@ -4,7 +4,7 @@
   "description": "Email adapter for MDC.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,9 @@
     "cheerio": "^0.22.0",
     "ejs": "^2.5.6",
     "nodemailer": "^3.1.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
   }
 }
