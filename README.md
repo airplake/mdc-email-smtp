@@ -70,3 +70,9 @@ $ npm install --save mdc-email-smtp
   "template": "可选项，模板文件，不传则用配置的 defaultTemplate"
 }
 ```
+
+### Major Contributor
+
+**XadillaX** 死月 http://xcoder.in/
+
+**shadow88sky** 徐晨
